@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.bfa50326.chunk.css",
-    "main.js": "/static/js/main.3773dfa1.chunk.js",
-    "main.js.map": "/static/js/main.3773dfa1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9ed5729f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9ed5729f.js.map",
+    "main.css": "/static/css/main.4be985c4.chunk.css",
+    "main.js": "/static/js/main.29bc89cf.chunk.js",
+    "main.js.map": "/static/js/main.29bc89cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.adb90452.js",
+    "runtime-main.js.map": "/static/js/runtime-main.adb90452.js.map",
     "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
-    "static/js/2.264263bd.chunk.js": "/static/js/2.264263bd.chunk.js",
-    "static/js/2.264263bd.chunk.js.map": "/static/js/2.264263bd.chunk.js.map",
-    "static/js/3.e3e5802d.chunk.js": "/static/js/3.e3e5802d.chunk.js",
-    "static/js/3.e3e5802d.chunk.js.map": "/static/js/3.e3e5802d.chunk.js.map",
+    "static/js/2.3057b434.chunk.js": "/static/js/2.3057b434.chunk.js",
+    "static/js/2.3057b434.chunk.js.map": "/static/js/2.3057b434.chunk.js.map",
+    "static/js/3.fffd998f.chunk.js": "/static/js/3.fffd998f.chunk.js",
+    "static/js/3.fffd998f.chunk.js.map": "/static/js/3.fffd998f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.bfa50326.chunk.css.map": "/static/css/main.bfa50326.chunk.css.map",
-    "static/js/2.264263bd.chunk.js.LICENSE.txt": "/static/js/2.264263bd.chunk.js.LICENSE.txt",
+    "static/css/main.4be985c4.chunk.css.map": "/static/css/main.4be985c4.chunk.css.map",
+    "static/js/2.3057b434.chunk.js.LICENSE.txt": "/static/js/2.3057b434.chunk.js.LICENSE.txt",
+    "static/media/Curriculum-Vitae.1ad056b5.pdf": "/static/media/Curriculum-Vitae.1ad056b5.pdf",
     "static/media/App.css": "/static/media/Ubuntu-Medium.90c045b7.ttf",
     "static/media/github.d3263084.png": "/static/media/github.d3263084.png",
     "static/media/white-potrait.47569a7e.png": "/static/media/white-potrait.47569a7e.png",
     "static/media/yellow-potrait.97f5c1ac.png": "/static/media/yellow-potrait.97f5c1ac.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ed5729f.js",
+    "static/js/runtime-main.adb90452.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.264263bd.chunk.js",
-    "static/css/main.bfa50326.chunk.css",
-    "static/js/main.3773dfa1.chunk.js"
+    "static/js/2.3057b434.chunk.js",
+    "static/css/main.4be985c4.chunk.css",
+    "static/js/main.29bc89cf.chunk.js"
   ]
 }
