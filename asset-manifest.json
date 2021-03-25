@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4be985c4.chunk.css",
-    "main.js": "/static/js/main.3acdd000.chunk.js",
-    "main.js.map": "/static/js/main.3acdd000.chunk.js.map",
+    "main.js": "/static/js/main.73b86c78.chunk.js",
+    "main.js.map": "/static/js/main.73b86c78.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9ed5729f.js",
     "runtime-main.js.map": "/static/js/runtime-main.9ed5729f.js.map",
     "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
@@ -17,14 +17,14 @@
     "static/media/Curriculum-Vitae.02c72539.pdf": "/static/media/Curriculum-Vitae.02c72539.pdf",
     "static/media/App.css": "/static/media/Ubuntu-Medium.90c045b7.ttf",
     "static/media/github.d3263084.png": "/static/media/github.d3263084.png",
-    "static/media/white-potrait.47569a7e.png": "/static/media/white-potrait.47569a7e.png",
-    "static/media/yellow-potrait.97f5c1ac.png": "/static/media/yellow-potrait.97f5c1ac.png"
+    "static/media/white-potrait.35db538e.png": "/static/media/white-potrait.35db538e.png",
+    "static/media/yellow-potrait.0e770204.png": "/static/media/yellow-potrait.0e770204.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9ed5729f.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.928f1783.chunk.js",
     "static/css/main.4be985c4.chunk.css",
-    "static/js/main.3acdd000.chunk.js"
+    "static/js/main.73b86c78.chunk.js"
   ]
 }
