@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1156e6a1.chunk.css",
-    "main.js": "/static/js/main.93aa983a.chunk.js",
-    "main.js.map": "/static/js/main.93aa983a.chunk.js.map",
+    "main.css": "/static/css/main.97840581.chunk.css",
+    "main.js": "/static/js/main.ea747666.chunk.js",
+    "main.js.map": "/static/js/main.ea747666.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9ed5729f.js",
     "runtime-main.js.map": "/static/js/runtime-main.9ed5729f.js.map",
     "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
@@ -12,9 +12,9 @@
     "static/js/3.e3e5802d.chunk.js.map": "/static/js/3.e3e5802d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.1156e6a1.chunk.css.map": "/static/css/main.1156e6a1.chunk.css.map",
+    "static/css/main.97840581.chunk.css.map": "/static/css/main.97840581.chunk.css.map",
     "static/js/2.928f1783.chunk.js.LICENSE.txt": "/static/js/2.928f1783.chunk.js.LICENSE.txt",
-    "static/media/Curriculum-Vitae.b9d67ec6.pdf": "/static/media/Curriculum-Vitae.b9d67ec6.pdf",
+    "static/media/Curriculum-Vitae.b5d87e38.pdf": "/static/media/Curriculum-Vitae.b5d87e38.pdf",
     "static/media/App.css": "/static/media/Ubuntu-Medium.90c045b7.ttf",
     "static/media/github.d3263084.png": "/static/media/github.d3263084.png",
     "static/media/white-potrait.35db538e.png": "/static/media/white-potrait.35db538e.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.9ed5729f.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.928f1783.chunk.js",
-    "static/css/main.1156e6a1.chunk.css",
-    "static/js/main.93aa983a.chunk.js"
+    "static/css/main.97840581.chunk.css",
+    "static/js/main.ea747666.chunk.js"
   ]
 }
