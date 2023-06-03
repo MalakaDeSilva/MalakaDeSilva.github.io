@@ -1,0 +1,81 @@
+html {
+  scroll-behavior: smooth;
+}
+
+h1 {
+  font-family: Ubuntu;
+}
+
+.App {
+  height: 100%;
+  background: var(--theme-page-background);
+  color: var(--theme-page-text);
+}
+
+.col-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  width: 40%;
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.typist {
+  font-family: RobotoMono;
+}
+
+.git-image {
+  margin: 10px;
+  width: 80vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.connection-img {
+  width: 10vw;
+  margin: 2vw;
+}
+
+@font-face {
+  font-family: "RobotoMono";
+  src: url("./fonts/RobotoMono-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("./fonts/Ubuntu-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+.timeline-cust {
+  height: 100%;
+}
+
+@media screen and (min-width: 600px) {
+  .App {
+    height: 100vh;
+  }
+
+  .git-image {
+    width: 100%;
+    margin: 10px;
+    height: 20vh;
+  }
+
+  .connection-img {
+    width: 2vw;
+    margin: 0.5vw;
+  }
+
+  .timeline-cust {
+    height: 52vh;
+  }
+}

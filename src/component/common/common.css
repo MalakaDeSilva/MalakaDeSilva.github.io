@@ -1,0 +1,50 @@
+/* Skill bar styles */
+* {
+  box-sizing: border-box;
+}
+
+.skill-container {
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 20px;
+}
+
+.skill-fill {
+  text-align: right;
+  vertical-align: middle;
+  border-radius: 20px;
+}
+
+/* Custom Card styles */
+.cust-card {
+  background: var(--theme-card-background);
+  box-shadow: 2px 1px 9px 4px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 90vw;
+  border-radius: 20px;
+}
+
+.cust-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* For desktops */
+@media screen and (min-width: 600px) {
+  /* Custom Card styles */
+  .cust-card {
+    box-shadow: 2px 1px 9px 4px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 100%;
+    border-radius: 20px;
+  }
+
+  .col-size {
+    width: 23vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .MuiTimeline-root li::before {
+    flex: 0;
+  }
+}
